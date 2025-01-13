@@ -44,4 +44,7 @@ this repository contains all codes with video demo and a detail explaination pre
 - Execute the `health_advisory_app.py` file to launch the website:
   ```bash
   python health_advisory_app.py
+
+diagram
   
+![WhatsApp Image 2025-01-13 at 22 51 47_125d9651](https://github.com/user-attachments/assets/905e3b90-2717-4ba1-81c7-ce7748dbac85)
