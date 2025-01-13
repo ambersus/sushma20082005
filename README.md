@@ -1,4 +1,6 @@
-# Health Advisory Application
+# Health Advisory System
+
+this repository contains all codes with video demo and a detail explaination presentation
 
 ## Step-by-Step Approach
 
